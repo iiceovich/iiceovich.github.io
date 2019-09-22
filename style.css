@@ -1,0 +1,70 @@
+@font-face {
+  font-family: DefaultFont;
+  src: url(din_next_01.ttf);
+}
+
+body {
+  background: #4d85d2 url("bg.jpg");
+  background-attachment: fixed;
+  background-position: right bottom;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  font-family: DefaultFont;
+}
+
+h1, h2, h3, div{
+  text-align: center;
+}
+
+h2{
+  margin: 5px;
+}
+
+h1{
+  margin-top: 40px;
+  margin-bottom: 35px;
+  padding-bottom: -10px;
+}
+
+h1, h2, h3{
+  font-weight: normal;
+}
+
+h3{
+  color: #afafaf;
+}
+
+a{
+  color: #e0defc;
+  text-decoration: none;
+  transition: 0.3s;
+  font-weight: bold;
+}
+
+a.head{
+  font-weight: bold;
+  margin: 15px;
+}
+
+.head1{
+  margin-bottom: 70px;
+}
+
+a:hover {
+  text-decoration: none;
+  color: black;
+}
+
+img.icon{
+  width: 150px;
+  margin: 30px;
+  margin-bottom: 10px;
+}
+
+.tab{
+  margin-bottom: 100px;
+}
+
+.dno{
+  margin-top: 200px;
+}
