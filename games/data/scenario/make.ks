@@ -1,0 +1,5 @@
+[call  storage="pre/chara_define.ks"  ]
+[call  storage="pre/macro.ks"  ]
+[call  storage="pre/set_show.ks"  ]
+[call  storage="sys/config.ks"  ]
+[return  ]

@@ -1,0 +1,16 @@
+*first
+[chara_show  name="black"  layer="1"  time="0"  wait="true"  left="-10"  zindex="500"  ]
+[eval  exp="f.ver=1000"  ]
+[eval  exp="f.win_f='a'"  ]
+[eval  exp="f.step=1"  ]
+[eval  exp="f.day_task=0"  ]
+[eval  exp="f.bad_flag=0"  ]
+[eval  exp="f.look=0"  ]
+[eval  exp="f.skinship=0"  ]
+[eval  exp="f.communicate=0"  ]
+[eval  exp="f.feed=0"  ]
+[eval  exp="f.bath=0"  ]
+[eval  exp="f.bed=0"  ]
+[return  ]
+*update
+[return  ]
